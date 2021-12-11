@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+.rectangle{
+    height: 200px;
+    width: 100%;
+    background-color: skyblue;
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 800px;
+    width: 500px;
+    background-color: pink;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    height: 800px;
+    width: 900px;
+    background-color: pink;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+img{
+    display: flex;
+    justify-content: space-between;
+    align-items: revert;
+    flex-wrap: wrap;
+
+}
+
